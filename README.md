@@ -1,19 +1,19 @@
-<!-- 🌌 HERO -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,50:2D1B4E,100:00F0FF&height=260&section=header&text=Noshin%20Syara%20Promitee&fontSize=42&fontColor=F0F0FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18&descColor=C77DFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001A,50:24153F,100:F08CFF&height=260&section=header&text=Noshin%20Syara%20Promitee&fontSize=42&fontColor=F8F4FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18&descColor=E0A7FF"/>
 </p>
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=720&lines=Building+software+that+solves+real+problems;Exploring+AI+%2B+Robotics;Frontend+Developer+%7C+ML+Enthusiast;Turning+ideas+into+working+systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=E0A7FF&center=true&vCenter=true&width=720&lines=Building+software+that+solves+real+problems;Exploring+AI+%2B+Robotics;Frontend+Developer+%7C+ML+Enthusiast;Turning+ideas+into+working+systems"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/NoshinSyaraPromitee">
-    <img src="https://img.shields.io/github/followers/NoshinSyaraPromitee?label=Followers&style=for-the-badge&color=2D1B4E"/>
+    <img src="https://img.shields.io/github/followers/NoshinSyaraPromitee?label=Followers&style=for-the-badge&color=24153F"/>
   </a>
   <a href="https://github.com/NoshinSyaraPromitee?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-00F0FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Projects-Explore-F08CFF?style=for-the-badge"/>
   </a>
 </p>
 
