@@ -21,11 +21,8 @@
 
 ## About Me
 
-I'm a **Computer Science & Engineering student** interested in building practical systems at the intersection of **software, artificial intelligence, and robotics**.
+I'm a **Computer Science & Engineering student** interested in building practical systems at the intersection of **software, artificial intelligence, and robotics**. I enjoy turning ideas into real, working products — from designing interfaces and building APIs to experimenting with machine learning and integrating different parts of a system.
 
-I enjoy turning ideas into real, working products — from designing interfaces and building APIs to experimenting with machine learning and integrating different parts of a system.
-
-My current focus is on becoming a stronger **software developer** while exploring how **AI can be applied to real-world problems**.
 
 ### Currently Exploring
 
