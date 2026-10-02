@@ -132,12 +132,5 @@ I enjoy exploring different areas of computer science and combining technologies
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>Building. Learning. Experimenting.</i>
-</p>
-
-<p align="center">
   <b>Turning ideas into working systems.</b>
 </p>
