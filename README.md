@@ -126,7 +126,6 @@ I enjoy exploring different areas of computer science and combining technologies
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoshinSyaraPromitee&theme=react-dark&hide_border=true"/>
 </p>
 
----
 
 ## Connect With Me
 
