@@ -71,59 +71,6 @@ I enjoy taking an idea from a rough concept → architecture → implementation 
 </p>
 
 ---
-
-## Featured Projects
-
-### SkillSync
-
-**AI-powered Resume & Job Matching System**
-
-A machine-learning project focused on analyzing resumes, classifying job categories, and predicting candidate-job compatibility.
-
-**Tech:** `Python` `Scikit-learn` `TF-IDF` `SVM` `Random Forest` `MLP`
-
----
-
-### SecondServe
-
-**Food Redistribution & Management Platform**
-
-A web-based system designed to connect surplus food with people and organizations that need it.
-
-**Tech:** `React` `Java` `Spring Boot` `MySQL` `Docker`
-
----
-
-### Trace
-
-**Missing Person Finder**
-
-A web application designed to assist with missing-person searches using a modern, responsive interface.
-
-**Tech:** `React` `Tailwind CSS` `JavaScript`
-
----
-
-### Reality Check
-
-**AI-Based Deepfake Detection**
-
-An AI-focused project exploring methods for identifying manipulated and synthetic media.
-
-**Focus:** `Deep Learning` `Computer Vision` `AI`
-
----
-
-### RoomieRadar
-
-**Roommate & Housing Discovery Platform**
-
-A full-stack platform designed to help users find suitable roommates and housing options.
-
-**Tech:** `MongoDB` `Express` `React` `Node.js`
-
----
-
 ## Interests
 
 ```text
