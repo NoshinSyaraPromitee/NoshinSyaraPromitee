@@ -115,22 +115,6 @@ I enjoy exploring different areas of computer science and combining technologies
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoshinSyaraPromitee&theme=midnight-purple&hide_border=true"/>
 </p>
 
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoshinSyaraPromitee&theme=react-dark&hide_border=true"/>
-</p>
-
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://github.com/NoshinSyaraPromitee">
-    <img src="https://img.shields.io/badge/GitHub-09001A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
   <b>Turning ideas into working systems.</b>
 </p>
