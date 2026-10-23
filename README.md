@@ -76,12 +76,6 @@ off_duty:      [stargazing, writing sci-fi, karate]
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoshinSyaraPromitee&bg_color=050816&color=93C5FD&line=3B82F6&point=E0E7FF&area=true&area_color=0B1530&hide_border=true&custom_title=Orbit%20Trajectory%20%E2%80%94%20Contributions"/>
 </p>
 
-## `05` ORBITAL DEBRIS SCAN
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NoshinSyaraPromitee/NoshinSyaraPromitee/output/snake-nebula.svg" alt="contribution snake"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:050816&height=60&section=footer&text=end%20of%20transmission&fontSize=14&fontColor=6B7DB3"/>
 </p>
