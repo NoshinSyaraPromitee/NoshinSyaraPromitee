@@ -49,33 +49,3 @@ off_duty:      [stargazing, writing sci-fi, karate]
 
 </details>
 
-## `03` MISSION LOG
-
-```diff
-+ [2026] Gold Medal — I3C & IWC · featured by The Daily Campus
-+ [2026] Featured by TBS — AI career platform built in 36 hours, 3-person crew
-+ [----] Project Lead & Solutions Architect — Uddokta AI, IUT Fireball Hackathon
-+ [2023] IAAC Bronze  ·  [2021] IAAC Bronze  ·  [2020] IAAC Silver
-+ [2020] 1st Runner-up — Astrovation 1.0 Astronomy Olympiad
-+ [----] Sub-Head R&D, IUT Robotics Club · Software crew, Project Aqua
-+ [----] Pre-print — Comparative ML for Resume Classification & Job-Fit Prediction
-```
-
-## `04` TELEMETRY
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoshinSyaraPromitee&show_icons=false&hide_border=true&count_private=true&include_all_commits=true&bg_color=050816&title_color=93C5FD&text_color=E0E7FF&custom_title=Station%20Telemetry"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoshinSyaraPromitee&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=93C5FD&text_color=E0E7FF&custom_title=Fuel%20Composition"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoshinSyaraPromitee&hide_border=true&background=050816&ring=3B82F6&fire=93C5FD&currStreakNum=E0E7FF&sideNums=E0E7FF&currStreakLabel=93C5FD&sideLabels=93C5FD&dates=6B7DB3&stroke=1E3A8A"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoshinSyaraPromitee&bg_color=050816&color=93C5FD&line=3B82F6&point=E0E7FF&area=true&area_color=0B1530&hide_border=true&custom_title=Orbit%20Trajectory%20%E2%80%94%20Contributions"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:050816&height=60&section=footer&text=end%20of%20transmission&fontSize=14&fontColor=6B7DB3"/>
-</p>
